@@ -8,4 +8,4 @@
 
 > type `*#9900#`
 
-- [] it's a developer mode, play safely.
+- [ ] it's a developer mode, play safely.
