@@ -2,10 +2,10 @@
 
 > Open Samsung Calculator 
 
-> type (+30012012732+
+> type `(+30012012732+`
 
 > The DR Parser Mode Open 
 
-> type * # 9900 #
+> type `*#9900#`
 
-[1] it's a developer mode, play safely.
+[+] it's a developer mode, play safely.
