@@ -8,4 +8,4 @@
 
 > type * # 9900 #
 
-[0] it's a developer mode, play safely.
+[1] it's a developer mode, play safely.
