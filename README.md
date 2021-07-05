@@ -1,0 +1,1 @@
+# DR-Parser-Mode-Samsung-Calculator
