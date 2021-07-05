@@ -1,6 +1,6 @@
 # DR Parser Mode, Samsung Calculator Key
 
-> Open Samsung Calculator 
+> Open [Samsung Calculator](https://play.google.com/store/apps/details?id=com.sec.android.app.popupcalculator)
 
 > type `(+30012012732+`
 
